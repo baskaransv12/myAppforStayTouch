@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeActivity">
+
+    <ImageView
+        android:id="@+id/secondActivitImg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.078"
+        app:srcCompat="@mipmap/img"/>
+
+    <TextView
+        android:id="@+id/question2_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="60dp"
+        android:text=""
+        android:textColor="@android:color/background_dark"
+        android:textStyle="bold"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/second_activity_next_button"
+        android:layout_width="90dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="200dp"
+        android:layout_marginTop="200dp"
+        android:text="Next"
+        android:textColor="@android:color/background_dark"
+        android:textSize="15sp"
+        tools:ignore="MissingConstraints"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/second_activity_previous_button"
+        android:layout_width="110dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="200dp"
+        android:text="previous"
+        android:textColor="@android:color/background_dark"
+        android:textSize="15sp"
+        tools:ignore="MissingConstraints"
+        android:textStyle="bold" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

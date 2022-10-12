@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">myApp</string>
+    <string name="facebook_app_id">830698488375992</string>
+    <string name="fb_login_protocol_scheme">fb830698488375992</string>
+    <string name="facebook_client_token">56789</string>
+    <string name="search">Search</string>
+    <string name="Vegetable">Vegetable,fruits etc</string>
+    <string name="Vegetable200">200 words</string>
+    <string name="Trans">Transport</string>
+    <string name="Trans145">145 words</string>
+    <string name="Animals">Animals</string>
+    <string name="Animals436">436 words</string>
+    <string name="All">All</string>
+    <string name="Grammar">Grammar</string>
+    <string name="Spelling">Spelling</string>
+    <string name="TimeinEnglish">Times</string>
+    <string name="LearnEnglish">Learn English </string>
+    <string name="LearnEnglish2"> Efficently!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="getUnlimited">Get Unlimited</string>
+    <string name="access">access!</string>
+    <string name="d9.9">$9.99</string>
+    <string name="d9.9permonth">$9.99 per month</string>
+    <string name="d80peryeer">$80 per year</string>
+    <string name="d3.9">$3.99</string>
+    <string name="d3.9permonth">$3.99 per month</string>
+    <string name="d60peryeer">$60 per year</string>
+    <string name="discount">-10 %</string>
+    <string name="premium">Go Premium</string>
+
+
+
+
+</resources>
